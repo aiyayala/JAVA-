@@ -1,2 +1,2 @@
 ### Projects from college:
-* Dieterapp /  Polynomials / animal / exception / igpay / sorting
+* Dieterapp /  Polynomials / animal / exception / bank
